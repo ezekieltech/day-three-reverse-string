@@ -1,0 +1,22 @@
+{
+  "name": "daythreereversestring",
+  "version": "1.0.0",
+  "description": "A function which reverses a word",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezekieltech/day-three-reverse-string.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Obhafuoso Ezekiel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezekieltech/day-three-reverse-string/issues"
+  },
+  "homepage": "https://github.com/ezekieltech/day-three-reverse-string#readme"
+}
